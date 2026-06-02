@@ -1,15 +1,14 @@
-## Hi there! I'm Lucio Nunes (LunusMax on Github) 👋
+## Hi there! I'm Lucio Nunes (LunusMax on GitHub) 👋
 
-- 🔭 I’m currently working on a master's thesis in computer science focused on data science for football using machine learning techniques.
-- 🌱 I’m currently learning SQL and improving my data analysis skills.
-- 👯 I’m looking to collaborate on projects related to sports analytics, machine learning, and software development.
-- 🤔 I’m looking for help with advanced SQL queries and optimization for large datasets.
-- 💬 Ask me about Python programming, C or machine learning applications in sports.
+- 🎓 I completed a master's degree in Computer Science, focused on data science applied to football.
+- ⚽ Creator of **LumeOpt**, a football squad optimization project that combines machine learning, performance prediction, and local search.
+- 🎨 Digital artist and founder of **Rust3d Studio**, focused on 3D art, animation, and visual storytelling.
+- 🧠 Interested in the intersection of data, creativity, optimization, and decision-making.
+- ✍️ I'm also exploring creative writing, especially novels, short stories, and worldbuilding.
+- ⚡ Fun fact: One of my long-term dreams is to develop indie games, combining software development, 3D art, storytelling, and interactive experiences.
 - 📫 How to reach me: luciovanunes@gmail.com or linkedin.com/in/lucionunes/
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides being a data scientist and programmer, I run my own animation business (3D), using Blender. I also dream of creating an indie game one day.
 
-I finished Harvard University CS50 and this is my fellow duck 
+I completed Harvard's CS50 — and this is my fellow duck:
 
 <span style="margin-left: 100px;"><img src="https://github.com/LunusMax/LunusMax/raw/main/.github/workflows/duck.png" alt="CS50 Rubber Duck" width="60"/></span>
 
@@ -35,14 +34,21 @@ I finished Harvard University CS50 and this is my fellow duck
 ![Dash](https://img.shields.io/badge/Dash-%230075C9.svg?style=for-the-badge&logo=plotly&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
 ![Blender](https://img.shields.io/badge/Blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobephotoshop&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/Adobe%20Illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Adobe After Effects](https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=adobeaftereffects&logoColor=white)
-[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/nunesdesigns)
+
+<h3>Links</h3>
+
+[![Behance](https://img.shields.io/badge/Behance-1769FF.svg?style=for-the-badge&logo=behance&logoColor=white)](https://www.behance.net/rust3d)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lucionunes/)
+
+<h3>Closing note</h3>
+
+I enjoy building things that connect logic and imagination — from football analytics and optimization systems to 3D worlds, stories, and future indie games.
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/LunusMax/LunusMax/output/github-contribution-grid-snake-dark.svg" />
